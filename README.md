@@ -1,4 +1,8 @@
-# Exp-6-Synchornous-counters - up counter and down counter 
+## Name:V.sarishvarshan
+## Reg:23012018
+
+
+## Exp-6-Synchornous-counters - up counter and down counter 
 ### AIM: To implement 4 bit up and down counters and validate  functionality.
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
@@ -46,43 +50,68 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 4-bit Count Down Counter
 ### Procedure
-/* write all the steps invloved */
+
+### PROGRAM:
+
+## UP COUNTER:
+
+![Screenshot 2023-12-29 203201](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/e2db6301-b2fe-441b-b95a-02028129ac36)
 
 
+## DOWN COUNTER: 
 
-### PROGRAM 
-/*
+![Screenshot 2023-12-29 203213](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/0dfe1251-d14e-447e-b16e-1b3c9ab49a32)
+
+
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: 
-RegisterNumber:  
-*/
+
+
+### RTL LOGIC:
+
+## UP COUNTER:
 
 
 
+![Screenshot 2023-12-29 203226](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/e0d76488-5cc9-43dc-baac-b87478174352)
 
 
-
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-
+## DOWN COUNTER:  
 
 
-
-
-
+![Screenshot 2023-12-29 203238](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/0da8838b-fd06-426e-9509-aa72469b0855)
 
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 
 
+## UP COUNTER:
 
+![Screenshot 2023-12-29 203247](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/b01a0d76-d111-4978-95ac-3db11b2f0cf1)
+
+
+
+## DOWN COUNTER: 
+
+![Screenshot 2023-12-29 203259](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/a7976b50-d6f0-4c22-ab94-e96a8aa6ae04)
 
 
 ### TRUTH TABLE 
 
+## UP COUNTER:
+
+![Screenshot 2023-12-29 203314](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/2b21eb56-b21b-4504-8734-cf439720b467)
+
+
+## DOWN COUNTER: 
+![Screenshot 2023-12-29 203325](https://github.com/sarishvarshan/Exp-7-Synchornous-counters-/assets/152167665/a9815efc-b5da-4927-b5bf-2cde6cbba039)
 
 
 
 
 
-### RESULTS 
+### RESULTS:
+
+By this we have verified the truth table 4 bit-using up-counter-verilog.
+
